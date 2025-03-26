@@ -1,0 +1,6 @@
+node_modules
+server
+build
+creopse
+main.ts
+*.d.ts
